@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "653147656018",
+    "firebase_url": "https://footballseason-dd1d1-default-rtdb.firebaseio.com",
+    "project_id": "footballseason-dd1d1",
+    "storage_bucket": "footballseason-dd1d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653147656018:android:e62895ba23d43fec78348b",
+        "android_client_info": {
+          "package_name": "com.spine.football_season"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEYLcsiKOxeQnl6KAa0C9S_3lKINYqhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653147656018:android:ec7b84b52591fd8378348b",
+        "android_client_info": {
+          "package_name": "com.spine.football_season_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEYLcsiKOxeQnl6KAa0C9S_3lKINYqhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
